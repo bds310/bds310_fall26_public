@@ -1,0 +1,1 @@
+This repository contains student materials for BDS 310: Foundations of Biological Data Sciences at Oregon State University. Not to be distributed, used, or accessed without explicit permission from Professor Timothy Warren.
